@@ -1,0 +1,28 @@
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Sofadi One', sans-serif;
+   
+  }
+  
+h1 {
+    font-size: 46px;
+    letter-spacing: 2px; 
+    text-align: center; 
+    color: #5d147e; 
+  }
+  
+p, li, span {
+    font-family: 'Suse', serif;
+  }
+
+span.highlight {
+    color: #2fc260; 
+  }
+  
+h3 {
+    font-size: 30px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); 
+  }
+  
+
+
